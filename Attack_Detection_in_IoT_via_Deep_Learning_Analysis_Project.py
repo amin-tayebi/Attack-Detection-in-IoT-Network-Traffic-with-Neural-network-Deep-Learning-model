@@ -1,3 +1,7 @@
+##################################################################################################################################
+#I put this just as a simple sample of a Neural Network Model, For having the main codes of the model we can have a collaboration#
+#                                                      please contact
+##################################################################################################################################
 import numpy as np
 from keras.models import Sequential
 from keras.layers import Dense, Activation
